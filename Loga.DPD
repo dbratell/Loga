@@ -1,0 +1,24 @@
+# Symantec IDDE generated .dpd file. V: 7200
+accessentry.class: \
+	accessentry.java \
+	InvalidAccessLogRadException.java 
+invalidaccesslogradexception.class: \
+	invalidaccesslogradexception.java \
+	StringTools.java 
+stringtools.class: \
+	stringtools.java \
+	DateTools.java 
+datetools.class: \
+	datetools.java 
+dbentry.class: \
+	dbentry.java 
+loga.class: \
+	loga.java \
+	TablePrint.java 
+tableprint.class: \
+	tableprint.java \
+	AccessEntry.java \
+	StringTools.java \
+	InvalidAccessLogRadException.java \
+	dbEntry.java \
+	DateTools.java 
